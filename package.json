@@ -1,0 +1,13 @@
+{
+  "name": "homebridgehdl",
+  "version": "1.0.0",
+  "description": "An enhanced Homebridge plugin for HDL Buspro.",
+  "main": "dist/index.js",
+  "keywords": ["homebridge-plugin", "hdl", "smart-home"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.17.0",
+    "homebridge": ">=1.0.0"
+  }
+}
